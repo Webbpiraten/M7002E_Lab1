@@ -26,6 +26,8 @@ public class Main {
         frame.setSize(300, 300);
         frame.add(canvas);
         frame.setVisible(true);
+        
+        System.out.println("Herro again!");
 
 
         // by default, an AWT Frame doesn't do anything when you click
